@@ -4,11 +4,15 @@
 
 Sou Marcos, pessoa com deficiência auditiva. Seja bem-vindo ao meu mundo no GitHub! Fique à vontade para explorar meus códigos e projetos. No momento, estou em busca de um estágio ou vaga como desenvolvedor front-end júnior.
 
+<div align="center">
+  <img alt="Welcome" height="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXR2dWYweDVhOHFhdGxqczMwdW95b2EwczJmcmxja2VmdXNiZG9kdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oWjyixDbWuAk8/giphy.gif">
+</div>
+
 ## Status (Stats)
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mukslima&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mukslima&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mukslima&radius=16&theme=gruvbox&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  />
