@@ -24,13 +24,33 @@ Sou Marcos, pessoa com deficiência auditiva. Seja bem-vindo ao meu mundo no Git
   <img alt="JSX" height="40" src="https://img.shields.io/badge/JSX-282C34?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img alt="TSX" height="40" src="https://img.shields.io/badge/TSX-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="React" height="40" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="React" height="40" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E">
   <img alt="Next.js" height="40" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
   <img alt="WordPress" height="40" src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
   <img alt="Figma" height="40" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img alt="Bootstrap" height="40" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img alt="Ruby on Rails" height="40" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
+  <img alt="Ruby" height="40" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
+  <img alt="Python" height="40" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+  <img alt="" height="40" src="">
 </div>
-  
+
+## Sistema Opercional (SO)
+
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; justify-content: center; margin-top: 10px;">
+  <img alt="LINUX" height="40" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img alt="UBUNTU" height="40" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img alt="WINDOWS" height="40" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+</div>
+
+## Ambiente de Desenvolvimento Integrado (IDE)
+
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; justify-content: center; margin-top: 10px;">
+  <img alt="VSCODE" height="40" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img alt="INTELLIJ" height="40" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+  <img alt="Colab" height="40" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
+</div>
+
   ## Rede Social (Social network)
 
 <div> 
