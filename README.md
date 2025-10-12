@@ -1,4 +1,4 @@
-## Marcos AND Lima, Developer FrontEnd.
+## Marcos AND Lima, Front-End Developer.
 
 ### Sobre mim
 
