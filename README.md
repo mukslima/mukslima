@@ -1,8 +1,9 @@
-## Marcos AND Lima, Front-End Developer.
+## Marcos AND Lima 
+Full Stack Developer | Plone + React + Python | Web Accessibility | Libras & Inclusive Technology
 
 ### Sobre mim
 
-Sou Marcos, pessoa com deficiência auditiva. Seja bem-vindo ao meu mundo no GitHub! Fique à vontade para explorar meus códigos e projetos. No momento, estou em busca de um estágio ou vaga como desenvolvedor front-end júnior.
+Sou Marcos AND Lima, desenvolvedor full stack com foco em soluções web usando Python, React, Volto e Plone 6. Tenho experiência com desenvolvimento de portais, acessibilidade digital e projetos ligados à Libras, buscando usar tecnologia para tornar a informação mais acessível e inclusiva.
 
 <div align="center">
   <img alt="Welcome" height="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXR2dWYweDVhOHFhdGxqczMwdW95b2EwczJmcmxja2VmdXNiZG9kdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oWjyixDbWuAk8/giphy.gif">
