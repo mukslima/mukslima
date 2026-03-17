@@ -6,7 +6,7 @@ Full Stack Developer | Plone + React + Python | Web Accessibility | Libras & Inc
 Sou Marcos AND Lima, desenvolvedor full stack com foco em soluções web usando Python, React, Volto e Plone 6. Tenho experiência com desenvolvimento de portais, acessibilidade digital e projetos ligados à Libras, buscando usar tecnologia para tornar a informação mais acessível e inclusiva.
 
 <div align="center">
-  <img alt="Welcome" height="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJmdHEyYzhtY2dtZWUwbXJ1MWY3eXh2eG0zaHJmZGZkbnBrMWQ2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QMHoU66sBXqqLqYvGO/giphy.gif">
+  <img alt="Welcome" height="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJ3cHl0ZzBwZXdweW83YTBvZTB5Mjlzano1aHQ2YXg0dmJ5czVhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif">
 </div>
 
 ## Status (Stats)
