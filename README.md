@@ -28,6 +28,7 @@ Sou Marcos AND Lima, desenvolvedor full stack com foco em soluções web usando 
   <img alt="TypeScript" height="40" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="JSX" height="40" src="https://img.shields.io/badge/JSX-282C34?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img alt="TSX" height="40" src="https://img.shields.io/badge/TSX-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="Plone" height="40" src="https://img.shields.io/badge/Plone-Enterprise%20CMS-1B75BB?style=for-the-badge">
   <img alt="React" height="40" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img alt="React" height="40" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E">
   <img alt="Next.js" height="40" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
