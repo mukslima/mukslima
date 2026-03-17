@@ -19,6 +19,17 @@ Sou Marcos AND Lima, desenvolvedor full stack com foco em soluções web usando 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mukslima&radius=16&theme=gruvbox&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
+## 🚀 Featured Projects
+
+### 🔹 UaiLibras
+Projeto focado em acessibilidade digital e Libras.
+
+### 🔹 Dream Beast Frontend
+Aplicação React para envio de mensagens interativas.
+
+### 🔹 Landing Page OXI
+Projeto em TypeScript com foco em UI moderna.
+
 ## Linguagens (Techs)
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; justify-content: center; margin-top: 10px;">
@@ -32,7 +43,6 @@ Sou Marcos AND Lima, desenvolvedor full stack com foco em soluções web usando 
   <img alt="React" height="40" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img alt="Next.js" height="40" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
   <img alt="Python" height="40" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-  <img alt="" height="40" src="">
 </div>
 
 ## Sistema Opercional (SO)
