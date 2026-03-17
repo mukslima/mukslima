@@ -6,7 +6,7 @@ Full Stack Developer | Plone + React + Python | Web Accessibility | Libras & Inc
 Sou Marcos AND Lima, desenvolvedor full stack com foco em soluções web usando Python, React, Volto e Plone 6. Tenho experiência com desenvolvimento de portais, acessibilidade digital e projetos ligados à Libras, buscando usar tecnologia para tornar a informação mais acessível e inclusiva.
 
 <div align="center">
-  <img alt="Welcome" height="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXR2dWYweDVhOHFhdGxqczMwdW95b2EwczJmcmxja2VmdXNiZG9kdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oWjyixDbWuAk8/giphy.gif">
+  <img alt="Welcome" height="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJmdHEyYzhtY2dtZWUwbXJ1MWY3eXh2eG0zaHJmZGZkbnBrMWQ2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QMHoU66sBXqqLqYvGO/giphy.gif">
 </div>
 
 ## Status (Stats)
@@ -30,13 +30,7 @@ Sou Marcos AND Lima, desenvolvedor full stack com foco em soluções web usando 
   <img alt="TSX" height="40" src="https://img.shields.io/badge/TSX-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="Plone" height="40" src="https://img.shields.io/badge/Plone-Enterprise%20CMS-1B75BB?style=for-the-badge">
   <img alt="React" height="40" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img alt="React" height="40" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E">
   <img alt="Next.js" height="40" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-  <img alt="WordPress" height="40" src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
-  <img alt="Figma" height="40" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img alt="Bootstrap" height="40" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img alt="Ruby on Rails" height="40" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
-  <img alt="Ruby" height="40" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
   <img alt="Python" height="40" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
   <img alt="" height="40" src="">
 </div>
